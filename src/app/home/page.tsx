@@ -41,7 +41,7 @@ export default function Home() {
               <CardTitle>Team</CardTitle>
             </CardHeader>
             <CardContent>
-              Let's get to know our team members and their contributions
+              Let&apos;s get to know our team members and their contributions
             </CardContent>
           </Card>
         </Link>
