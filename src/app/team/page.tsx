@@ -34,9 +34,9 @@ export default function Team() {
               <CardTitle>Ritik Jha</CardTitle>
             </CardHeader>
             <CardContent>
-              03915602820
+              06115602820
               <br />
-              F4
+              F5
             </CardContent>
           </Card>
         </div>
@@ -46,9 +46,9 @@ export default function Team() {
               <CardTitle>Preyrit Sharma</CardTitle>
             </CardHeader>
             <CardContent>
-              03915602820
+              05615602820
               <br />
-              F4
+              F5
             </CardContent>
           </Card>
         </div>
